@@ -1,5 +1,6 @@
 import cmath
 import sys
+import serial
 from PyQt5.QtWidgets import *
 
 def dialog():
